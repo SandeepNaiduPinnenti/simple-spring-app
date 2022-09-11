@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'aspirerimagine'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BB19BA7846864F93830EC6275783211A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4350C54A608041C09C96F0B6F3393637 }}
           package: '*.jar'
